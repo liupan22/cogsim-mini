@@ -1,0 +1,13 @@
+# Generated simulation databases, reports, and figures
+outputs/
+
+# Python bytecode and environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.vscode/
